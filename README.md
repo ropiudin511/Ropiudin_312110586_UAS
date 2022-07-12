@@ -1,3 +1,3 @@
-# Loket Parkir Orang Tua Siswa
+# Loket Serah Terima Raport dan Ijazah
 
-![Loket Parkir Orang Tua Siswa](media/welcome.png)
+![Loket Serah Terima Raport dan Ijazah](media/welcome.png)
